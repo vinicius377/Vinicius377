@@ -10,9 +10,11 @@
 </ul>
 
 # Skills
+<div>
 <img src="https://img.icons8.com/color/50/000000/html-5--v1.png" width="35px"/>
 <img src="https://img.icons8.com/color/48/000000/css3.png" width="35px"/>
 <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" width="35px"/>
+</div>
 
 # Contacts
 <p>
