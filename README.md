@@ -2,11 +2,10 @@
 
 ## I'm studying for be a developer web
 <ul>
-    <li>Estou atualmente estudando ReactJS</li>
-    <li>Tecnico em Informática</li>
-    <li>Formando em Analise e desenvolvimento de sistemas</li>
-    <li>Basico de inglês, leitura e escrita</li>
-    <li>Estou procurando oportunidades para ganhar experiência como desenvolvedor</li>
+    <li>Estou atualmente estudando ReactJS e Typescript.</li>
+    <li>Técnico em Informática.</li>
+    <li>Formando em Analise e desenvolvimento de sistemas.</li>
+    <li>Estou procurando oportunidades para ganhar experiência como desenvolvedor.</li>
 </ul>
 
 # Skills
@@ -25,4 +24,7 @@
     <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/>
 </a>
 </p>
- 
+<div>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vinicius377&show_icons=true&theme=omni&include_all_commits=true&count_private=true&hide=stars"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicius377&layout=compact&langs_count=7&theme=omni"/>
+</div>
