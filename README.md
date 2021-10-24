@@ -1,12 +1,12 @@
 <h1 align="center"> Olá, meu nome é Vinicius <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
 
 ## I'm studying for be a developer web
-<ul>
-    <li>Estou atualmente estudando ReactJS e Typescript.</li>
-    <li>Técnico em Informática.</li>
-    <li>Formando em Analise e desenvolvimento de sistemas.</li>
-    <li>Estou procurando oportunidades para ganhar experiência como desenvolvedor.</li>
-</ul>
+
+  - Estou atualmente estudando ReactJS e Typescript.
+  - Técnico em Informática.
+  - Formando em Analise e desenvolvimento de sistemas.
+  - Estou procurando oportunidades para ganhar experiência como desenvolvedor.
+
 
 # Skills
 <div>
