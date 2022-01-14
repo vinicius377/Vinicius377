@@ -1,7 +1,6 @@
 <h1 align="center"> Olá, meu nome é Vinicius <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
 
 ## I'm studying for be a developer web
-  - Há 4 meses conhecendo e me apaixonando por um universo totalmente novo 🥰.
   - ReactJS ❤⚛
   - Técnico em Informática.
   - Formando em Analise e desenvolvimento de sistemas.
