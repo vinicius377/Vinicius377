@@ -23,13 +23,13 @@
         }
     ],
     "mainSkills": {
-        hardSkills: {
+        "hardSkills": {
             "frontEnd": ["ReactJS", "Typescript", "NextJS", "VueJS", "CSS", "SASS"],
             "mobile": ["React Native", "Expo"],
             "backEnd": ["NodeJS", "NestJS", "Express", "MongoDB", "Postgres"],
             "toolAndOthers": ["Git", "Github", "Docker", "Linux", "Scrum"]
         },
-        softSkills: [
+        "softSkills": [
             "Consigo aprender rapidamente",
             "Gosto de novos desafios",
             "Consigo de adaptar rapidamente",
