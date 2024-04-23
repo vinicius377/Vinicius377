@@ -2,12 +2,6 @@
 
 ```json
 {
-    "about": "Olá, meu nome é Vinicius, tenho 21 anos e sou do interior do Ceará 🌵. \n
-        Tenho quase 2 anos de experência na área de desenvolvimento web, o Front-end, \n
-        mas sempre estou aberto a conhecer novas áreas no mundo da tecnologia 💻. \n
-        Sempre busco estar atualizado sobre as novidades e tendências que aparecem na área \n
-        de tecnologia,sempre que possível aplicando as melhores práticas e \n
-        convenções usadas no mercado.",
     "formations": [
         {
             "name": "Tecnico em informática", 
@@ -23,13 +17,13 @@
         }
     ],
     "mainSkills": {
-        hardSkills: {
+        "hardSkills": {
             "frontEnd": ["ReactJS", "Typescript", "NextJS", "VueJS", "CSS", "SASS"],
             "mobile": ["React Native", "Expo"],
             "backEnd": ["NodeJS", "NestJS", "Express", "MongoDB", "Postgres"],
             "toolAndOthers": ["Git", "Github", "Docker", "Linux", "Scrum"]
         },
-        softSkills: [
+        "softSkills": [
             "Consigo aprender rapidamente",
             "Gosto de novos desafios",
             "Consigo de adaptar rapidamente",
