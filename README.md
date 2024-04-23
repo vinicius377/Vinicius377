@@ -36,7 +36,7 @@
             "Sei trabalhar em equipe"
         ]
     },
-    "currentLearning": ["Shell script", "Delving deeper into algorithms"],
+    "currentLearning": ["Micro-frontends", "SEO", "Delving deeper into algorithms"],
     "working": false,
     "openToOpportunities": true,
 }
