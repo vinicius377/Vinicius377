@@ -18,7 +18,7 @@
     ],
     "mainSkills": {
         "hardSkills": {
-            "frontEnd": ["ReactJS", "Typescript", "NextJS", "VueJS", "CSS", "SASS"],
+            "frontEnd": ["ReactJS", "Typescript", "NextJS", "VueJS", "CSS", "SASS", "Jest"],
             "mobile": ["React Native", "Expo"],
             "backEnd": ["NodeJS", "NestJS", "Express", "MongoDB", "Postgres"],
             "toolAndOthers": ["Git", "Github", "Docker", "Linux", "Scrum"]
