@@ -4,19 +4,19 @@
 {
     "formations": [
         {
-            "name": "Tecnico em informática", 
+            "title": "Tecnico em informática", 
             "org": "EEEP Maria de Jesus Rodrigues Alves",
             "start": "01 de fevereiro de 2018",
             "end": "21 de dezembro de 2020",
         },
         {
-            "name": "Analista e desenvolvedor de sistemas",
+            "title": "Analista e desenvolvedor de sistemas",
             "org": "Cruzeiro do Sul",
             "start": "01 de agosto de 2021",
             "end": "20 de dezembro de 2023"
         },
         {
-            "name": "Pos em Arquitetura de software",
+            "title": "Pos em Arquitetura de software",
             "org": "Unopar",
             "start": "01 de janeiro de 2025",
             "end": "01 de setembro de 2025"
@@ -36,7 +36,6 @@
             "Sei trabalhar em equipe"
         ]
     },
-    "currentLearning": ["Micro-frontends", "SEO", "Delving deeper into algorithms"],
     "working": false,
     "openToOpportunities": true,
 }
